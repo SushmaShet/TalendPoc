@@ -4,4 +4,18 @@
     <migrationTask xmi:id="_OTlzEJurEemZEemB1SxhEQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_NS7AQZurEemZEemB1SxhEQ" login="asur@eval48.talend.com" firstName="Arnab" lastName="Sur" type="DQ"/>
+  <TalendProperties:User xmi:id="_x9EasJuwEemBuIOXR_WmiQ" login="bhanusolleti@eval48.talend.com" firstName="Bhanu_Poorna_Kumar_" lastName="Solleti" type="DQ"/>
+  <TalendProperties:User xmi:id="_x9EasZuwEemBuIOXR_WmiQ" login="deepa.nallamuthu@eval48.talend.com" firstName="Deepa" lastName="Nallamuthu" type="DQ"/>
+  <TalendProperties:User xmi:id="_x9EaspuwEemBuIOXR_WmiQ" login="robbinsg@eval48.talend.com" firstName="robbins" lastName="gupta" type="DQ"/>
+  <TalendProperties:User xmi:id="_x9Eas5uwEemBuIOXR_WmiQ" login="disharim@eval48.talend.com" firstName="Dishari" lastName="Mukherjee" type="DQ"/>
+  <TalendProperties:User xmi:id="_x9EatJuwEemBuIOXR_WmiQ" login="shivagv@eval48.talend.com" firstName="shiva" lastName="Gv" type="DQ"/>
+  <TalendProperties:User xmi:id="_x9EatZuwEemBuIOXR_WmiQ" login="aloksm@eval48.talend.com" firstName="Alok" lastName="Samal" type="DQ"/>
+  <TalendProperties:User xmi:id="_x9EatpuwEemBuIOXR_WmiQ" login="swathip@eval48.talend.com" firstName="swathi" lastName="paladugu" type="DQ"/>
+  <TalendProperties:User xmi:id="_x9FBwJuwEemBuIOXR_WmiQ" login="aayushk@eval48.talend.com" firstName="Aayush" lastName="Kumar" type="DQ"/>
+  <TalendProperties:User xmi:id="_x9FBwZuwEemBuIOXR_WmiQ" login="indra@eval48.talend.com" firstName="Indra" lastName="Adhikari" type="DQ"/>
+  <TalendProperties:User xmi:id="_x9FBwpuwEemBuIOXR_WmiQ" login="rsa@eval48.talend.com" firstName="Ravi" lastName="Alle" type="DQ"/>
+  <TalendProperties:User xmi:id="_x9FBw5uwEemBuIOXR_WmiQ" login="ganeshn@eval48.talend.com" firstName="Ganesh" lastName="N" type="DQ"/>
+  <TalendProperties:User xmi:id="_x9FBxJuwEemBuIOXR_WmiQ" login="chandni@eval48.talend.com" firstName="Chandni" lastName="Ray" type="DQ"/>
+  <TalendProperties:User xmi:id="_x9FBxZuwEemBuIOXR_WmiQ" login="varn@eval48.talend.com" firstName="Varun" lastName="N" type="DQ"/>
+  <TalendProperties:User xmi:id="_x9FBxpuwEemBuIOXR_WmiQ" login="vchauha@eval48.talend.com" firstName="Vikrant" lastName="Chauhan" type="DQ"/>
 </xmi:XMI>
